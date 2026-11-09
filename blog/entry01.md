@@ -5,7 +5,7 @@
 I have decided to use the tool of Phaser for my freedom project. Which I tinkered with the code to be able to see the physics of phaser and how a spirit can bounce off corners and how to make sprites. My game will be a karate PVP game. Of one of my karate teachers vs another one of my karate teachers. Using the Phaser website to learn how to make a sprite and make it move across certain coordinates.  
 
 ### Engineering Design Process 
-The First Step in the EDP is to define the problem I hope to solve through my karate PVP game that most people don't feel confident enough to start karate.
+The First Step in the EDP is to define the problem I hope to solve through my karate PVP game that most people don't feel confident enough to start karate. Especially since there are no PVP karate games out there for karate unlike other games. I will use my two karate teacher Shian Allan Acosta, and Grandmaster Luis Ferrer, with permission given. to make avatar sprites of them in phaser. 
 
 
 [Next](entry02.md)
