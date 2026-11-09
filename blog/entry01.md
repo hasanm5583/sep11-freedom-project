@@ -10,6 +10,8 @@ The First Step in the EDP is to define the problem I hope to solve through my ka
 ### Skills
 One of the skills I used when deciding to make a karate PVP game was creativity. This a game that is currently non existent. I took a simple love of games and a love for karate to make a game that never has existed before with two new players no one has played with before. 
 
+ Another skill that I had to implement was Consideration. I had to consider who would be playing my game and why, was it because they love karate or might want a visualization of what doing karate might feel like.
+
 
 [Next](entry02.md)
 
