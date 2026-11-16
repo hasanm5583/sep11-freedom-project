@@ -66,3 +66,30 @@ Phaser.Actions.PlaceOnEllipse(myObjects, ellipse, Math.PI * 1.5, Math.PI * 0.5);
     var json = this.anims.toJSON();
 
     platforms = this.physics.add.staticGroup(); I can add the image to this code oh my karate teacher when I make it and edit the gravity and ellipse animations from the example from the examples shown on phaser as a guiding tool to then being able to preview it as a sprite of my karate teacher moving!
+### 11/03/26:
+const config = {
+    type: Phaser.AUTO,
+    width: 800,
+    height: 600,
+
+    physics: {
+        default: "arcade",
+        arcade: {
+            gravity: { y: 0 },
+            debug: true
+        }
+    },
+
+    scene: {
+        preload: preload,
+        create: create,
+        update: updateconst game = new Phaser.Game(config);
+
+let player;
+let cursors;
+
+function preload() {
+    this.load.image("player", "player.png");
+} t
+
+this is the code that once I  make the image of my karate teacher and me and up load the images will load the figure.
