@@ -106,3 +106,11 @@ this.#player.x-= 2;
 } else if (this.cursorkey.right.isDown) {
 this.#player.x+= 2;
 }
+As as both fighters healthbars being displayed 
+
+function drawHealthBar(fighter, x, y) {
+  const barWidth = 140;
+  const barHeight = 12;
+
+  ctx.fillStyle = '#333';
+  ctx.fillRect(x, y, barWidth, barHeight);
