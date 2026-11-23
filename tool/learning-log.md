@@ -93,3 +93,16 @@ function preload() {
 } t
 
 this is the code that once I  make the image of my karate teacher and me and up load the images will load the figure.
+
+### 11/23/26:
+how to make a chracter move with arrow keys 
+
+this.#cursorkeys= this.imputkeyboard.createCursorKeys(); 
+
+update()
+
+if (this.cursorkey.left.isDown) {
+this.#player.x-= 2;
+} else if (this.cursorkey.right.isDown) {
+this.#player.x+= 2;
+}
