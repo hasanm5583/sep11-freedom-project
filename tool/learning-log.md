@@ -66,7 +66,7 @@ Phaser.Actions.PlaceOnEllipse(myObjects, ellipse, Math.PI * 1.5, Math.PI * 0.5);
     var json = this.anims.toJSON();
 
     platforms = this.physics.add.staticGroup(); I can add the image to this code oh my karate teacher when I make it and edit the gravity and ellipse animations from the example from the examples shown on phaser as a guiding tool to then being able to preview it as a sprite of my karate teacher moving!
-### 11/03/26:
+### 11/16/26:
 const config = {
     type: Phaser.AUTO,
     width: 800,
